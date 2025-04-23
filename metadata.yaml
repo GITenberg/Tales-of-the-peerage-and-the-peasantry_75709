@@ -1,0 +1,45 @@
+_repo: Tales-of-the-peerage-and-the-peasantry_75709
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sullivan, Arabella Jane
+    alias: Pickering, Ellen
+    deathdate: 1839
+    gutenberg_agent_id: '58112'
+    url: http://www.gutenberg.org/2009/agents/58112
+    wikipedia: https://en.wikipedia.org/wiki/Arabella_Sullivan
+  editor:
+    agent_name: Dacre, Barbarina, Lady
+    aliases:
+    - Brand, Barbarina, Lady
+    - Dacre, Barbarina Ogle Brand, Baroness
+    - Wilmot, Barbarina
+    - Wilmot, Mrs.
+    birthdate: 1767
+    deathdate: 1854
+    gutenberg_agent_id: '42348'
+    url: http://www.gutenberg.org/2009/agents/42348
+    wikipedia: https://en.wikipedia.org/wiki/Barbarina_Brand
+description: ''
+gutenberg_issued: '2025-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75709'
+language: en
+pgterms:marc904: https://archive.org/details/talesofpeerageth00sulluoft/
+pgterms:marc905: 20220707012116sullivan
+pgterms:marc906: '1849'
+pgterms:marc907: GB
+production_note: MWS, Graeme Mackreth and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited Kingdom :$bRichard Bentley, $c1849.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nithsdale, Winifred Maxwell, Countess of, 1672-1749 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Tales of the peerage and the peasantry
+url: http://www.gutenberg.org/ebooks/75709
